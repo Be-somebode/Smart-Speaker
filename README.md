@@ -3,6 +3,7 @@ A speaker can be controlled by voice and complete many task like play music, swi
 # Hardware
 Raspberry Pi 4B  
 Respeaker 2-Mics Pi HAT  
+led
 # Contributors
 Shengbo Huang  
 Yikang Li  
