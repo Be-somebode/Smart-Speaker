@@ -1,29 +1,18 @@
 
-# Music and lighting genius
-In environments such as parties or bars, you can control the lights in real time through music to enhance the atmosphere
-# Function
-Play music through the Raspberry Pi, collect the music spectrum in real time, and display it on the dot matrix LED
-# Hardware
-Raspberry Pi
-The power cord
-SD card
-Heat sink
-LED
-LED
-LED
-LED
-Audio capture module
-Power amplifier
-Dupont Line
-Speaker
-
-# Smart music lights
+## Table of Contents
+[Smart music lights](#smart_music_lights)
+  * [About](#about)
+  * [Function](#function)
+  * [Hardware](#hardware)
+ 
+# Smart music lights <a name="smart_music_lights"></a>
 ![image](https://github.com/Be-somebode/Smart-Speaker/blob/main/image/1.png)
-# About
+# About <a name="about"></a>
 Smart music lights, which can change lights in real time as music sounds, are a great helper for improving the party and bar atmosphere.
-# Function
-Play music through raspberry pie, collect music spectrum in real time, send it to raspberry pie for processing, and display it on LED.  
-# Hardware
+# Function <a name="function"></a>
+1. Collect audio data through ADS1115 in real time.
+2. Through the internal FFT audio processing of raspberry pie, and then through the LED lattice display the corresponding spectrum.
+# Hardware <a name="hardware"></a>
 Raspberry Pi(3b+)  
 The power cord  
 SD card	(16g)  
