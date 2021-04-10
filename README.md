@@ -7,7 +7,7 @@ The purpose of this project is to design an intelligent control of the color and
   * [About](#about)
   * [Function](#function)
   * [Hardware](#hardware)
-  * [How it work?](#how it work)
+  * [How it work?](#how_it_work)
  
 # Smart music lights <a name="smart_music_lights"></a>
 ![image](https://github.com/Be-somebode/Smart-Speaker/blob/main/image/1.png)
@@ -31,7 +31,9 @@ Dupont Line
 Speaker  	 
 # How it work? <a name="how_it_work"></a>
 ![image](https://github.com/Be-somebode/Smart-Speaker/blob/main/image/3.png)
-
+1. Use ADS1115 to collect data of the audio in real time.(Connect the ADS1115 to the Raspberry Pi as the picture above).
+2. Process audio through the internal fft of the Raspberry Pi.
+3. Display the corresponding frequency spectrum through the LED dot matrix.
 # Contributors
 👤 **Shengbo Huang**  
 👤 **Yikang Li**  
