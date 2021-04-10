@@ -8,6 +8,7 @@ The purpose of this project is to design an intelligent control of the color and
   * [Function](#function)
   * [Hardware](#hardware)
   * [How it work?](#how_it_work)
+  * [Contributors](#contributors)
  
 # Smart music lights <a name="smart_music_lights"></a>
 ![image](https://github.com/Be-somebode/Smart-Speaker/blob/main/image/1.png)
@@ -33,7 +34,7 @@ Speaker
 ![image](https://github.com/Be-somebode/Smart-Speaker/blob/main/image/3.png)
 1. Use ADS1115 to collect data of the audio in real time and translate the signal to digital signal.(Connect the ADS1115 to the Raspberry Pi as the picture above).
 2. Display the corresponding frequency spectrum through the LED dot matrix.When the signal is stronger, the more LEDs will turn on (simulating the effect of lighting changes in the bar according to the music).
-# Contributors
+# Contributors <a name="contributors"></a>
 👤 **Shengbo Huang**  
 👤 **Yikang Li**  
 👤 **Xinkai Zhou**  
