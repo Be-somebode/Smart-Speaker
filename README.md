@@ -31,9 +31,8 @@ Dupont Line
 Speaker  	 
 # How it work? <a name="how_it_work"></a>
 ![image](https://github.com/Be-somebode/Smart-Speaker/blob/main/image/3.png)
-1. Use ADS1115 to collect data of the audio in real time.(Connect the ADS1115 to the Raspberry Pi as the picture above).
-2. Process audio through the internal fft of the Raspberry Pi.
-3. Display the corresponding frequency spectrum through the LED dot matrix.
+1. Use ADS1115 to collect data of the audio in real time and translate the signal to digital signal.(Connect the ADS1115 to the Raspberry Pi as the picture above).
+2. Display the corresponding frequency spectrum through the LED dot matrix.When the signal is stronger, the more LEDs will turn on (simulating the effect of lighting changes in the bar according to the music).
 # Contributors
 👤 **Shengbo Huang**  
 👤 **Yikang Li**  
