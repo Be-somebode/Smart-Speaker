@@ -1,4 +1,4 @@
-# team13_RTEP5: Smart music lights 
+# team13_RTEP: Smart music lights 
 Lighting is an important part of a party. The lighting at a party needs to change with the music, however, it usually requires a staff member to control it manually.
 The purpose of this project is to design an intelligent control of the color and quantity of light with the spectrum of music, without manual operation.
 ## Table of Contents
