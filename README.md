@@ -1,4 +1,6 @@
 # Smart music lights
+![image](https://github.com/Be-somebode/Smart-Speaker/blob/main/image/1.png)
+# About
 Smart music lights, which can change lights in real time as music sounds, are a great helper for improving the party and bar atmosphere.
 # Function
 Play music through raspberry pie, collect music spectrum in real time, send it to raspberry pie for processing, and display it on LED.  
@@ -16,6 +18,6 @@ Power amplifier
 Dupont Line  	
 Speaker  	 
 # Contributors
-Shengbo Huang  
-Yikang Li  
-Xinkai Zhou  
+👤 **Shengbo Huang**  
+👤 **Yikang Li**  
+👤 **Xinkai Zhou**  
