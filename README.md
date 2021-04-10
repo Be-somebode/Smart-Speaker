@@ -29,8 +29,8 @@ Audio capture module (ADS1115）
 Power amplifier  	 
 Dupont Line  	
 Speaker  	 
-# How it work? <a name="how it work"></a>
-
+# How it work? <a name="how_it_work"></a>
+![image](https://github.com/Be-somebode/Smart-Speaker/blob/main/image/3.png)
 
 # Contributors
 👤 **Shengbo Huang**  
