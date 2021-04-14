@@ -1,6 +1,9 @@
 # Team13_RTEP: Smart music lights 
 <br />
 <div align="center">
+  
+  <h2 align="center">Smart Music Light</h2>  
+  
   <p align="center">
       <a href="https://www.youtube.com/"><img height=40 src="https://github.com/Be-somebode/Smart-Speaker/blob/main/image/YouTube.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href=""><img height=40 src="https://github.com/Be-somebode/Smart-Speaker/blob/main/image/Facebook.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
