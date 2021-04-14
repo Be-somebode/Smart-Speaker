@@ -13,7 +13,13 @@
       <br />
       <br />
       <a href="">View Demo</a>
-    </p>
+  </p>
+</div>
+
+<div align="center">
+  
+[![Contributors]()]()
+
 </div>
 
 Lighting is an important part of a party. The lighting at a party needs to change with the music, however, it usually requires a staff member to control it manually.
