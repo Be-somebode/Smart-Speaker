@@ -1,11 +1,11 @@
 # Team13_RTEP: Smart music lights 
  
  <p align="center">
-    <a href=""><img height=40 src="images/youtube.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height=40 src="images/facebook.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height=40 src="images/twitter.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height=40 src="images/instagram.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height=40 src="images/linkedin.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img height=40 src="https://github.com/Be-somebode/Smart-Speaker/blob/main/image/YouTube.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img height=40 src="https://github.com/Be-somebode/Smart-Speaker/blob/main/image/Facebook.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img height=40 src="https://github.com/Be-somebode/Smart-Speaker/blob/main/image/Twitter.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img height=40 src="https://github.com/Be-somebode/Smart-Speaker/blob/main/image/Instagram.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img height=40 src="https://github.com/Be-somebode/Smart-Speaker/blob/main/image/LinkedIn.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <br />
     <br />
     <a href="">View Demo</a>
