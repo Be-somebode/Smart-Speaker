@@ -1,6 +1,6 @@
 # Remote Control By Android App
 ## Layout
-<div align=center><img src="https://github.com/Be-somebode/Smart-Speaker/blob/main/src/MobileMusicControl/Image/app.png" width="230" height="400" alt="APP"/></div>
+<div align=center><img src="https://github.com/Be-somebode/Smart-Speaker/blob/main/src/MobileMusicControl/Image/app.png" width="300" height="550" alt="APP"/></div>
 
 ## Usage
 1. Download the apk to the Android Mobile Phone and install it.
