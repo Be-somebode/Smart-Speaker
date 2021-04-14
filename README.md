@@ -1,4 +1,17 @@
 # Team13_RTEP: Smart music lights 
+ 
+ <p align="center">
+    <a href=""><img height=40 src="images/youtube.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img height=40 src="images/facebook.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img height=40 src="images/twitter.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img height=40 src="images/instagram.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img height=40 src="images/linkedin.svg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <br />
+    <br />
+    <a href="">View Demo</a>
+  </p>
+</div>
+
 Lighting is an important part of a party. The lighting at a party needs to change with the music, however, it usually requires a staff member to control it manually.
 The purpose of this project is to design an intelligent control of the color and quantity of light with the spectrum of music, without manual operation.
 ![image](https://github.com/Be-somebode/Smart-Speaker/blob/main/image/2.jpg)
