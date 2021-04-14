@@ -17,6 +17,7 @@ Smart music lights, which can change lights in real time as music sounds, are a 
 # Function <a name="function"></a>
 1. Collect audio data through ADS1115 in real time.
 2. Through the internal FFT audio processing of raspberry pie, and then through the LED lattice display the corresponding spectrum.
+3. By using the app on the mobile phone, you can play, pause the music and cut to the next song/previous song. 
 # Hardware <a name="hardware"></a>
 Raspberry Pi(3b+)  
 The power cord  
