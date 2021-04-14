@@ -18,8 +18,10 @@
 
 <div align="center">
   
-[![Contributors]()]()
-
+[![Contributors](https://img.shields.io/github/contributors/Be-somebode/Smart-Speaker.svg?style=for-the-badge)](https://github.com/Be-somebode/Smart-Speaker/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/Be-somebode/Smart-Speaker.svg?style=for-the-badge)](https://github.com/Be-somebode/Smart-Speaker/network/members)
+[![Stars](https://img.shields.io/github/stars/Be-somebode/Smart-Speaker.svg?style=for-the-badge)](https://github.com/Be-somebode/Smart-Speaker/stargazers)
+[![License](https://img.shields.io/github/license/Be-somebode/Smart-Speaker.svg?style=for-the-badge)](https://github.com/Be-somebode/Smart-Speaker/blob/main/LICENSE)
 </div>
 
 
