@@ -9,7 +9,6 @@
       <a href=""><img height=40 src="https://github.com/Be-somebode/Smart-Speaker/blob/main/image/Facebook.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://twitter.com/SmartMusicLigh1"><img height=40 src="https://github.com/Be-somebode/Smart-Speaker/blob/main/image/Twitter.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href=""><img height=40 src="https://github.com/Be-somebode/Smart-Speaker/blob/main/image/Instagram.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href=""><img height=40 src="https://github.com/Be-somebode/Smart-Speaker/blob/main/image/LinkedIn.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <br />
       <br />
       <a href="https://www.youtube.com/">View Demo</a>
