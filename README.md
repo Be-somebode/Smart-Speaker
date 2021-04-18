@@ -63,6 +63,6 @@ Speaker
 1. Use ADS1115 to collect data of the audio in real time and translate the signal to digital signal.(Connect the ADS1115 to the Raspberry Pi as the picture above).
 2. Display the corresponding frequency spectrum through the LED dot matrix.When the signal is stronger, the more LEDs will turn on (simulating the effect of lighting changes in the bar according to the music).
 # Contributors <a name="contributors"></a>
-👤 **Shengbo Huang**  : Design an Android app to control the RaspberryPI.  
-👤 **Yikang Li**      : Design a program to enable the LEDs to turn on/off according to the music.  
-👤 **Xinkai Zhou**    : Design a music player running in RaspberryPI to play the mp3 music.  
+👤 **Shengbo Huang(2539618H)**  : Design an Android app to control the RaspberryPI.  
+👤 **Yikang Li(2489956L)**      : Design a program to enable the LEDs to turn on/off according to the music.  
+👤 **Xinkai Zhou(2604399Z)**    : Design a music player running in RaspberryPI to play the mp3 music.  
